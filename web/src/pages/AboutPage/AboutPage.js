@@ -5,7 +5,7 @@ const AboutPage = () => {
   return (
     <>
       <header>
-        <h1>Redwood Blog About</h1>
+        <h1>Redwood Blog About git testing</h1>
         <nav>
           <ul>
             <li>
